@@ -1,3 +1,8 @@
+# **Modelo de Regresión Lineal Simple para predecir la Presión Sistólica Sanguínea**
+
+A partir de la edad del paciente, desarrollar un modelo de regresión lineal simple que pueda predecir la Presión Sistólica Sanguínea.
+Se explica el paso a paso de la creación del modelo.
+
 # Regresión Lineal Simple
 
 La regresión lineal simple consiste en generar un modelo de regresión (ecuación de una recta) que permita explicar la relación lineal que existe entre dos variables. A la variable dependiente o respuesta se le identifica como Y y a la variable predictora o independiente como X.
@@ -21,7 +26,4 @@ Se emplean como medida de fuerza de asociación (tamaño del efecto):
 *   0.7: asociación alta.
 *   0.9: asociación muy alta.
 
-### Modelo de Regresión Lineal Simple para predecir la Presión Sistólica Sanguínea
 
-A partir de la edad del paciente, desarrollar un modelo de regresión lineal simple que pueda predecir la Presión Sistólica Sanguínea.
-Se explica el paso a paso de la creación del modelo.
